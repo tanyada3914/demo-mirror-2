@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          TEST MIRROR
+          TEST MIRROR2
         </a>
       </header>
     </div>
