@@ -8,7 +8,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.GOOGLE_PROJECT }}
-  IMAGE: rush1auto-new
+  IMAGE: rush1auto-new1
   REGION: asia-southeast1
   NAME_SPACE: rushone-frontend
 
